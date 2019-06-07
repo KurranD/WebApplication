@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/KurranD/WebApplication/issues"
   },
-  "homepage": "https://github.com/KurranD/WebApplication#readme"
+  "homepage": "https://github.com/KurranD/WebApplication#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.3"
+  }
 }
